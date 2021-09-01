@@ -1,0 +1,18 @@
+
+{
+  "title": "ONI-NOBORU"
+  "description": "oni-noboru's hentai collection"
+  "artist": "ONI-NOBORU",
+  "author": "ONI-NABORU",
+  "cover": " https://hentai-img.com/image/pixiv-oni-noboru-660275-2/attachment/3/.jpg"
+  "chapters": {
+    "1": {
+      "title": "Inspiration Injection"
+      "volume": "1",
+      "groups": {
+        "oni-noboru": "/proxy/api/imgur/chapter/https:/imgur.com/s8LyU1y/"
+      },
+      "last_updated": "1616368746"
+    },
+  }
+}
