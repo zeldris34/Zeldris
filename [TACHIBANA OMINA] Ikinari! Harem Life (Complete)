@@ -1,0 +1,17 @@
+{
+  "title": "Ikinari! Harem Life",
+  "description": "<manga description>",
+  "artist": "tachibana omina",
+  "author": "<manga author>",
+  "cover": "<mangacoverurl.jpg>",
+  "chapters": {
+    "8": {
+      "title": "Ikinari! Harem Life Chapter",
+      "volume": "<volume number>",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/<imgur id>/"
+      },
+      "last_updated": "1616368746"
+    },
+  }
+}
